@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
+.klass {
+  background-color: aqua;
+  border: 1px solid black;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+}
+.block1 {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 400px;
+  font-size: 40px;
+}
+.block2 {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 400px;
+}
+.block3 {
+  display: flex;
+  margin-top: -100px;
+  justify-content: right;
+  margin-right: 20px;
+}

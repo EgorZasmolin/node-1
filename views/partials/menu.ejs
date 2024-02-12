@@ -1,0 +1,23 @@
+<nav class="navbar navbar-expand navbar-light bg-light justify-content-end">
+  <div class="nav navbar-nav">
+    <% if (locals.user) { %>
+    <div id="menu">
+      <%# меню пользователей выполнивших вход%>
+      <span class="name"><%= locals.user.name %> </span> <%# user.name для
+      браузера то что пользователь послал в requeste%>
+      <a class="btn btn-light text-dark me-2" href="/post" aria-current="page"
+        >Post<span class="visually-hidden">(current)</span></a
+      >
+      <a class="btn btn-primary" href="/logout">Logout</a>
+    </div>
+    <% } else { %>
+    <div class="" id="menu">
+      <%# //меню анонимных пользователей %>
+      <a class="btn btn-light text-dark me-2" href="/login" aria-current="page"
+        >Login<span class="visually-hidden">(current)</span></a
+      >
+      <a class="btn btn-primary" href="/register">Register</a>
+    </div>
+    <% } %>
+  </div>
+</nav>

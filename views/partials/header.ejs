@@ -1,52 +1,70 @@
-<nav class="navbar navbar-expand-sm bg-dark text-light">
-  <div class="container">
-    <div class="nav__brand">
-      <a class="navbar-brand" href="/">News</a>
-      <button
-        class="navbar-toggler d-lg-none"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#collapsibleNavId"
-        aria-controls="collapsibleNavId"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
+<header>
+  <div class="px-3 py-2 text-bg-dark border-bottom">
+    <div class="container">
+      <div
+        class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"
       >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </div>
-    <% if (locals.user) { %>
-    <div class="collapse navbar-collapse" id="collapsibleNavId">
-      <ul class="navbar-nav me-auto mt-2 mt-lg-0">
-        <li class="nav-item">
-          <a class="nav-link header-link" href="/" aria-current="page"
-            >Главная<span class="visually-hidden">(current)</span></a
+        <a
+          href="/"
+          class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none"
+        >
+          ZASMOLIN E. M. 7120Б
+          <svg
+            class="bi me-2"
+            width="40"
+            height="32"
+            role="img"
+            aria-label="Bootstrap"
           >
-        </li>
-        <li class="nav-item">
-          <a class="nav-link header-link" href="/posts">Записи</a>
-        </li>
-        <li class="nav-item">
-          <a href="/logout" class="nav-link header-link">Выйти</a>
-        </li>
-      </ul>
-      <p class="user-name"><%= locals.user.name %></p>
+            <use xlink:href="#bootstrap"></use>
+          </svg>
+        </a>
+
+        <ul
+          class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small"
+        >
+          <li>
+            <a href="#" class="nav-link text-secondary">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24">
+                <use xlink:href="#home"></use>
+              </svg>
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="#" class="nav-link text-white">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24">
+                <use xlink:href="#speedometer2"></use>
+              </svg>
+              Dashboard
+            </a>
+          </li>
+          <li>
+            <a href="#" class="nav-link text-white">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24">
+                <use xlink:href="#table"></use>
+              </svg>
+              Orders
+            </a>
+          </li>
+          <li>
+            <a href="#" class="nav-link text-white">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24">
+                <use xlink:href="#grid"></use>
+              </svg>
+              Products
+            </a>
+          </li>
+          <li>
+            <a href="#" class="nav-link text-white">
+              <svg class="bi d-block mx-auto mb-1" width="24" height="24">
+                <use xlink:href="#people-circle"></use>
+              </svg>
+              Customers
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
-    <% } else { %>
-    <div class="collapse navbar-collapse" id="collapsibleNavId">
-      <ul class="navbar-nav me-auto mt-2 mt-lg-0">
-        <li class="nav-item">
-          <a class="nav-link header-link" href="/" aria-current="page"
-            >Главная<span class="visually-hidden">(current)</span></a
-          >
-        </li>
-        <li class="nav-item">
-          <a class="nav-link header-link" href="/login">Войти</a>
-        </li>
-        <li class="nav-item">
-          <a href="/register" class="nav-link header-link">Регистрация</a>
-        </li>
-      </ul>
-    </div>
-    <% } %>
   </div>
-</nav>
+</header>

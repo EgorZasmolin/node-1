@@ -6,26 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><%= title %></title>
     <link rel="stylesheet" href="/css/bootstrap.css" />
-    <link rel="stylesheet" href="./style.css" />
-
-    <script defer src="/js/bootstrap.js"></script>
   </head>
   <body>
-    <header><%- include ('./partials/header') %></header>
-    <div class="container mt-3 mb-3">
+    <div class="container">
+      <header><%- include ('./partials/header') %></header>
+      <%- include ('./partials/menu') %>
       <h1><%= title %></h1>
       <%- include ('./partials/messages') %>
       <p>Заполните форму ниже чтобы добавить новый пост</p>
       <form action="/post" method="post">
         <div class="mb-3">
-          <label for="z" class="form-label">Заголовок поста</label>
+          <label for="z" class="form-label">Title</label>
           <input
             type="text"
             class="form-control"
             name="entry[title]"
             id="z"
             aria-describedby="helpId"
-            placeholder="Заголовок поста"
+            placeholder="Title"
           />
         </div>
         <div class="mb-3">
@@ -38,7 +36,7 @@
           ></textarea>
         </div>
         <button type="submit" value="Post" class="btn btn-primary">
-          Отправить
+          Submit
         </button>
       </form>
     </div>
