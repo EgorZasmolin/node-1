@@ -6,6 +6,7 @@ exports.list = (req, res, next) => {
     if (err) return next(err);
 
     const userData = req.user;
+    logger.info("Пользователь зашёл на страницу постов");
     res.render("entries", { title: "Посты", entries: entries, user: userData });
   });
 };
@@ -26,6 +27,7 @@ exports.submit = (req, res, next) => {
     };
 
     Entry.create(entry);
+    logger.info("Пользователь создал новый пост");
     res.redirect("/posts");
   } catch (err) {
     logger.error(`Произошла ошибка: ${err}`);
@@ -41,6 +43,7 @@ exports.delete = async (req, res, next) => {
       logger.error(`Произошла ошибка: ${err}`);
       return next(err);
     }
+    logger.info("Пользователь удалил пост");
     await res.redirect("/posts");
   });
 };
@@ -52,6 +55,7 @@ exports.updateForm = (req, res) => {
       logger.error(`Произошла ошибка: ${err}`);
       return res.redirect("posts");
     }
+    logger.info("Пользователь зашёл на страницу обновления поста");
     await res.render("update", { title: "Изменение поста", entry: entry });
   });
 };
@@ -69,5 +73,6 @@ exports.updateSubmit = async (req, res, next) => {
       return next(err);
     }
   });
+  logger.info("Пользователь изменил пост");
   await res.redirect("/posts");
 };

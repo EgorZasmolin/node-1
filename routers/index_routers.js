@@ -4,8 +4,10 @@ const register = require("../controllers/register");
 const login = require("../controllers/login");
 const entries = require("../controllers/entries");
 const validate = require("../middleware/validate");
+const logger = require("../logger");
 
 router.get("/", entries.list);
+logger.info("Пользователь зашёл на главную страницу");
 router.get("/posts", entries.list);
 router.get("/post", entries.form);
 

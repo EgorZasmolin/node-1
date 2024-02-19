@@ -4,6 +4,7 @@ const messanger = "https://kappa.lol/iSONv";
 const logger = require("../logger/index");
 
 exports.form = (req, res) => {
+  logger.info("Пользователь зашёл на страницу логина");
   res.render("loginForm", { title: "Login", messanger: messanger });
 };
 exports.submit = (req, res, next) => {
@@ -19,12 +20,14 @@ exports.submit = (req, res, next) => {
     } else {
       req.session.userEmail = data.email;
       req.session.userName = data.name;
+      logger.info("Пользователь вошёл в аккаунт");
       res.redirect("/");
     }
   });
 };
 
 exports.logout = (req, res, next) => {
+  logger.info("Пользователь вышел");
   req.session.destroy((err) => {
     if (err) return next(err);
     res.redirect("/");

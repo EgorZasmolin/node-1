@@ -23,3 +23,54 @@
   level: 'error',
   timestamp: '2024-02-11T20:09:06.303Z'
 }
+{
+  message: 'development undefined C:\\Users\\zasmo\\NODE-4\\views\\registerForm.ejs:17\n' +
+    "    15|       <%#- include ('./partials/messages') %>\r\n" +
+    '    16|       <p>Заполните форму ниже чтобы изменить пост</p>\r\n' +
+    ' >> 17|       <form method="post" action="/update/<%= entry.id %>">\r\n' +
+    '    18|         <div class="mb-3">\r\n' +
+    '    19|           <label for="z" class="form-label">Title</label>\r\n' +
+    '    20|           <input\r\n' +
+    '\n' +
+    'entry is not defined',
+  level: 'error',
+  timestamp: '2024-02-19T07:54:12.112Z'
+}
+{
+  message: 'development undefined C:\\Users\\zasmo\\NODE-4\\views\\registerForm.ejs:17\n' +
+    "    15|       <%#- include ('./partials/messages') %>\r\n" +
+    '    16|       <p>Заполните форму ниже чтобы изменить пост</p>\r\n' +
+    ' >> 17|       <form method="post" action="/update/<%= entry.id %>">\r\n' +
+    '    18|         <div class="mb-3">\r\n' +
+    '    19|           <label for="z" class="form-label">Title</label>\r\n' +
+    '    20|           <input\r\n' +
+    '\n' +
+    'entry is not defined',
+  level: 'error',
+  timestamp: '2024-02-19T07:54:22.060Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-19T08:00:29.829Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-19T08:00:48.424Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-19T08:01:58.524Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-19T08:05:39.786Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-19T08:06:05.217Z'
+}
