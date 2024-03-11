@@ -2239,3 +2239,23 @@
   level: 'info',
   timestamp: '2024-03-11T08:43:56.129Z'
 }
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T08:44:09.724Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T08:44:11.775Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:44:11.796Z'
+}
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T08:44:21.700Z'
+}

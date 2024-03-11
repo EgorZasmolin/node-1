@@ -624,3 +624,8 @@
   level: 'error',
   timestamp: '2024-03-11T08:18:27.675Z'
 }
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T08:44:21.700Z'
+}
