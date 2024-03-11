@@ -2259,3 +2259,13 @@
   level: 'error',
   timestamp: '2024-03-11T08:44:21.700Z'
 }
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:48:47.239Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:48:47.282Z'
+}
