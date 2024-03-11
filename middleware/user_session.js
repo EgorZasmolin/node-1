@@ -8,6 +8,10 @@ module.exports = function (req, res, next) {
       req.user = res.locals.user = userData;
       res.locals.admin = userData.isAdmin === 1 ? true : false;
     }
-    next();
+    if (req.session.passport) {
+      res.locals.user = req.session.passport.user;
+    }
+
+    return next();
   });
 };

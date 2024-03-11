@@ -5,14 +5,37 @@ const login = require("../controllers/login");
 const entries = require("../controllers/entries");
 const validate = require("../middleware/validate");
 const logger = require("../logger");
+const passport = require("passport");
+// const ensureAuthenticated = require("../middleware/isAuthenticated");
 
 router.get("/", entries.list);
 logger.info("Пользователь зашёл на главную страницу");
 router.get("/posts", entries.list);
 router.get("/post", entries.form);
 
+// router.post(
+//   "/post",
+//   ensureAuthenticated,
+//   validate.required("[entry[title]]"),
+//   validate.required("entry[[content]]"),
+//   validate.lengthAbove("[entry[title]]", 4),
+//   entries.submit
+// );
+router.get(
+  "/auth/yandex",
+  passport.authenticate("yandex"),
+  function (req, res) {}
+);
+router.get(
+  "/auth/yandex/callback",
+  passport.authenticate("yandex", { failureRedirect: "/login" }),
+  function (req, res) {
+    res.redirect("/");
+  }
+);
 router.post(
   "/post",
+  passport.authenticate("jwt", { session: false }),
   validate.required("[entry[title]]"),
   validate.required("entry[[content]]"),
   validate.lengthAbove("[entry[title]]", 4),

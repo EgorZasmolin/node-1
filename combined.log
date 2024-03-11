@@ -574,3 +574,1668 @@
   level: 'info',
   timestamp: '2024-02-19T08:09:08.393Z'
 }
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T07:38:22.706Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:38:22.712Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T07:38:27.738Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T07:55:04.942Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:55:04.950Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T07:57:29.091Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:57:29.096Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T07:57:35.331Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T07:58:21.244Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T07:58:21.249Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:14:08.883Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:14:08.888Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:14:11.004Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:16.893Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:16.900Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:18.210Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:25:23.376Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:25:34.160Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:26:36.773Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:26:36.778Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-26T08:26:39.841Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:27:04.873Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:27:04.878Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-26T08:27:06.484Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:28:46.440Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:28:46.444Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:17.654Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:17.661Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:29:56.683Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:29:56.958Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:37.644Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-26T08:30:52.813Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:30:52.836Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:30:57.709Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:30:57.778Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:12.924Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:12.989Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:18.872Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:18.884Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:32.329Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:32.452Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:34.836Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:31:37.647Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:52.508Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:55.037Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:57.704Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:31:57.776Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:35:03.512Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:35:03.523Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:35:11.037Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:35:11.321Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:35:31.402Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:08.060Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:08.065Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:19.497Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:19.501Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:23.292Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:37:23.396Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:25.116Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:35.964Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:35.970Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:37:36.104Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:37:54.593Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:37:56.319Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:38:16.384Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:38:16.625Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:38:37.445Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:38:37.451Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:38:40.012Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:38:40.115Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:41.650Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:41.657Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:43.333Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:42:43.447Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:50.228Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:50.233Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:52.448Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:42:52.613Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:42:55.531Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:43:12.739Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:43:15.592Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:43:15.640Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:43:28.331Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:43:28.336Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:43:28.560Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:10.972Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:46:18.992Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:46:31.050Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:46:31.184Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:46:39.048Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:46:39.142Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:48:44.416Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:48:44.422Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T08:48:48.051Z'
+}
+{
+  message: 'Такой пользователь в базе уже существует',
+  level: 'error',
+  timestamp: '2024-02-26T08:49:05.607Z'
+}
+{
+  message: 'Создался новый пользователь',
+  level: 'info',
+  timestamp: '2024-02-26T08:49:20.303Z'
+}
+{
+  message: 'First token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T08:49:20.308Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:49:20.336Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:49:33.388Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:02.378Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:02.384Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:51:02.572Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:30.143Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:30.149Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:36.273Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:36.307Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:51:36.457Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:38.522Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:51:58.617Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:51:58.747Z'
+}
+{
+  message: 'Token login  transferred succesfully',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:59.125Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:51:59.134Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:52:11.492Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:52:11.498Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:52:11.841Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:52:19.217Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:52:19.256Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:52:52.312Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:52:52.318Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:29.511Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:29.517Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:35.379Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:35.407Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:53:35.576Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:37.681Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:43.529Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T08:53:43.543Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:53:57.815Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:53:57.855Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:54:03.653Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T08:54:04.044Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:01:29.462Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:01:29.478Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T09:01:31.438Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:01:49.611Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:03:55.293Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:04:02.160Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:18.337Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:04:38.457Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:04:38.563Z'
+}
+{
+  message: 'Создался новый пользователь',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:41.505Z'
+}
+{
+  message: 'First token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:41.506Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:41.523Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:49.950Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:49.972Z'
+}
+{
+  message: 'Пользователь зашёл на страницу регистрации',
+  level: 'info',
+  timestamp: '2024-02-26T09:04:51.049Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:05:01.605Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:05:01.675Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:05:10.167Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:06:33.072Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:06:33.080Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:06:33.189Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:06:33.266Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:06:33.268Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:06:33.270Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:06:44.512Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:06:44.517Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:06:53.199Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:06:53.737Z'
+}
+{
+  message: 'Создался новый пользователь',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:08.685Z'
+}
+{
+  message: 'First token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:08.688Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:08.718Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:14.774Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:14.806Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:07:15.082Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:07:15.142Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:07:25.836Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:07:28.828Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:07:28.925Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:07:35.102Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:24.488Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:24.509Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:08:24.699Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:25.094Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:08:45.487Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:08:47.848Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:08:47.892Z'
+}
+{
+  message: 'Создался новый пользователь',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:56.225Z'
+}
+{
+  message: 'First token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:56.232Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:56.243Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:58.117Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:58.137Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:08:59.089Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:09:11.146Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:09:11.161Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:09:16.329Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:09:16.471Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:14:50.454Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:14:50.459Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:14:52.290Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:14:52.955Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:14:55.166Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:02.736Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:15:15.255Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:15:15.361Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:23.222Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:15:25.045Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:37.075Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:41.798Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:15:44.941Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:46.155Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-02-26T09:15:54.269Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:15:56.898Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:15:58.607Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:26:03.755Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:26:03.768Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:26:07.160Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:26:07.527Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:27:42.655Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:27:42.660Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:27:42.774Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:28:22.381Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:28:35.318Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:28:35.342Z'
+}
+{
+  message: 'development undefined res.ClearCookie is not a function',
+  level: 'error',
+  timestamp: '2024-02-26T09:28:39.479Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:28:42.555Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:28:42.713Z'
+}
+{
+  message: 'development undefined res.ClearCookie is not a function',
+  level: 'error',
+  timestamp: '2024-02-26T09:28:44.293Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:28:55.518Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:28:55.564Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:29:52.063Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:29:52.077Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:29:52.355Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:29:52.372Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:29:52.401Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:29:52.882Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:29:56.235Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:10.428Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:10.445Z'
+}
+{
+  message: 'Пользователь создал новый пост',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:16.085Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:16.110Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:30:16.390Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:30:16.407Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:18.068Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:30:18.075Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:30:30.748Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:30:30.775Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:30:32.618Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:25.880Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:25.885Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:26.333Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:31:26.945Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:28.108Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:40.419Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-02-26T09:31:40.434Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:31:48.234Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:31:48.380Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:32:00.673Z'
+}
+{
+  message: "development 404 Could't get path",
+  level: 'error',
+  timestamp: '2024-02-26T09:32:00.812Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T10:10:51.621Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:10:51.628Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T10:13:19.902Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:13:19.907Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T10:17:50.324Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:17:50.328Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-02-26T10:55:49.844Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-02-26T10:55:49.850Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T06:02:43.917Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:02:43.923Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:26.144Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:26.150Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:35.619Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:35.624Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:53.924Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:05:53.930Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T06:06:21.111Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T06:06:21.145Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:31.069Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:31.114Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:33.353Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:35.340Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:37.777Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:49:37.787Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:50:51.232Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:50:51.275Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:51:20.253Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:51:20.337Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:52:41.671Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:52:41.727Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:52:43.385Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T07:52:44.823Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T07:52:47.012Z'
+}
+{
+  message: 'development undefined newUserser is not defined',
+  level: 'error',
+  timestamp: '2024-03-11T07:52:47.024Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:01.440Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:01.544Z'
+}
+{
+  message: 'development 500 Code has expired',
+  level: 'error',
+  timestamp: '2024-03-11T07:53:01.833Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:17.293Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:17.337Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:19.879Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:21.884Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:24.336Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:53:24.355Z'
+}
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T07:54:08.665Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:54:11.615Z'
+}
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T07:55:56.491Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T07:55:58.970Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:12:58.450Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:12:58.533Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:13:01.336Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:34.393Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:37.133Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:37.148Z'
+}
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T08:16:48.685Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:51.317Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:59.370Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:16:59.376Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:00.929Z'
+}
+{
+  message: 'получили профиль от яндексаEgorZasmolin',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:04.864Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:04.874Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:31.245Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:31.250Z'
+}
+{
+  message: 'Пользователь зашёл на страницу логина',
+  level: 'info',
+  timestamp: '2024-03-11T08:17:33.560Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-03-11T08:17:43.210Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-03-11T08:17:47.770Z'
+}
+{
+  message: 'Имя или пароль неверный',
+  level: 'error',
+  timestamp: '2024-03-11T08:17:51.574Z'
+}
+{
+  message: 'Token login transferred successfully',
+  level: 'info',
+  timestamp: '2024-03-11T08:18:12.702Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:18:12.708Z'
+}
+{
+  message: 'development undefined Unknown authentication strategy "jwt"',
+  level: 'error',
+  timestamp: '2024-03-11T08:18:27.675Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:18:44.520Z'
+}
+{
+  message: 'Пользователь вышел',
+  level: 'info',
+  timestamp: '2024-03-11T08:18:49.119Z'
+}
+{
+  message: 'Пользователь зашёл на страницу постов',
+  level: 'info',
+  timestamp: '2024-03-11T08:18:49.126Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:19:32.589Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:19:32.631Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:30:32.375Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:30:32.418Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:37:23.553Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:37:23.591Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:37:49.615Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:37:49.657Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:43:42.249Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:43:42.299Z'
+}
+{
+  message: 'Пользователь зашёл на главную страницу',
+  level: 'info',
+  timestamp: '2024-03-11T08:43:56.090Z'
+}
+{
+  message: 'listen on port 3000',
+  level: 'info',
+  timestamp: '2024-03-11T08:43:56.129Z'
+}

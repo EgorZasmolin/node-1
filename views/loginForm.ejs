@@ -17,6 +17,11 @@
         <h1 class="text-center">Авторизация</h1>
         <p>Пожалуйста, заполните форму ниже</p>
         <%- include('./partials/messages') %>
+        <div class="container">
+          <a href="/auth/yandex">
+            <button class="primary">Войдите с помощью Яндекс</button>
+          </a>
+        </div>
         <form class="container needs-validation" action="/login" method="post" novalidate="">
           <div class="row g-2 g-5">
             <div class="col-12">
